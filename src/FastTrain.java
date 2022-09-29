@@ -39,6 +39,7 @@ public class FastTrain {
             }
         }
         TrainTime.printTrainToFile(names, speedMax,speedMaxIndex);
+        System.out.println("Hello");
 
     }
 }
