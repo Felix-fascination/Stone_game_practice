@@ -1,3 +1,5 @@
+package ScholersOlympic;
+
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileReader;
@@ -9,7 +11,7 @@ public class ScholersOlympic {
         Scanner sc = new Scanner(new FileReader("input.txt"));
         int k = sc.nextInt();
         int m = sc.nextInt();
-        int n = sc.nextInt();;
+        int n = sc.nextInt();
         int d = sc.nextInt();
         int itemCount = 0;
         //Trying to find NOK
