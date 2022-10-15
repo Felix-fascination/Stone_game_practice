@@ -1,4 +1,4 @@
-package StoneGame.fastTrain;
+package fastTrain;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
